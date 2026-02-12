@@ -2,7 +2,8 @@
 
 This repository contains signal-processing-based algorithms for identifying
 cardiac structures in echocardiogram data, including mitral valve leaflet
-detection (MATLAB) and left ventricle identification (Python).
+detection (MATLAB) and left ventricle identification (Python). A detailed analysis 
+of the project can be found in the pdf file named "DSP_Echo_Writeup_Informal.pdf"
 
 ---
 
